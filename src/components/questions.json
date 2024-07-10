@@ -1,0 +1,1259 @@
+{
+    "html": [
+        {
+            "question": "What is the difference between <div> and <span> in HTML?",
+            "answers": {
+                "a": "<div> is for text styling while <span> is for layout structure.",
+                "b": "<div> is a block-level element while <span> is an inline element.",
+                "c": "<div> is for styling inputs while <span> is for organizing forms."
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What is the purpose of the 'alt' attribute in the <img> tag?",
+            "answers": {
+                "a": "To specify the alignment of the image.",
+                "b": "To define the image's URL.",
+                "c": "To provide alternative text for browsers that cannot display the image."
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What does the 'srcset' attribute in the <img> tag do?",
+            "answers": {
+                "a": "Defines the size of the image.",
+                "b": "Specifies multiple URLs for different resolutions of the same image.",
+                "c": "Sets the source of the image."
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Explain the difference between 'id' and 'class' attributes in HTML.",
+            "answers": {
+                "a": "'id' can only be used once per page, while 'class' can be used multiple times.",
+                "b": "'id' is for grouping elements, while 'class' is for individual styling.",
+                "c": "'class' is used for styling, while 'id' is used for JavaScript."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the role of the <meta> tag in HTML?",
+            "answers": {
+                "a": "To define the character set for the HTML document.",
+                "b": "To set the background color of the webpage.",
+                "c": "To specify the primary language of the document."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'form' attribute in HTML?",
+            "answers": {
+                "a": "To define a form that is associated with the element.",
+                "b": "To link the element with a specific JavaScript function.",
+                "c": "To set the font size of the element."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Explain the difference between 'GET' and 'POST' methods in HTML forms.",
+            "answers": {
+                "a": "'GET' sends data in the URL, while 'POST' sends it in the body.",
+                "b": "'GET' is faster than 'POST' for large amounts of data.",
+                "c": "'GET' is used for retrieving data, while 'POST' is used for sending data."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is semantic HTML?",
+            "answers": {
+                "a": "HTML that uses appropriate tags for content structure.",
+                "b": "HTML that applies complex CSS styles.",
+                "c": "HTML that includes advanced JavaScript functionalities."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Explain the 'data-' attribute in HTML5.",
+            "answers": {
+                "a": "To store custom data for an HTML element.",
+                "b": "To define the document's data format.",
+                "c": "To create interactive graphs in HTML."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What are the benefits of using HTML5 over previous versions?",
+            "answers": {
+                "a": "Improved support for mobile devices.",
+                "b": "Support for audio and video playback without plugins.",
+                "c": "All of the above."
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is the purpose of the 'picture' element in HTML5?",
+            "answers": {
+                "a": "To provide different versions of an image for different devices or resolutions.",
+                "b": "To style images with CSS.",
+                "c": "To create image galleries."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you include external JavaScript in an HTML document?",
+            "answers": {
+                "a": "Using the <script> tag with the 'src' attribute.",
+                "b": "Using the <link> tag.",
+                "c": "Using the <import> tag."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "css": [
+        {
+            "question": "What is the CSS Box Model?",
+            "answers": {
+                "a": "A model that describes the rectangular boxes generated for elements in the document tree.",
+                "b": "A framework for creating responsive web designs.",
+                "c": "A model used for applying styles to a specific box element."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'z-index' property do?",
+            "answers": {
+                "a": "Controls the stacking order of elements.",
+                "b": "Sets the opacity of an element.",
+                "c": "Defines the border width of an element."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Explain the difference between 'padding' and 'margin' in CSS.",
+            "answers": {
+                "a": "'Padding' is the space inside an element's border, while 'margin' is the space outside the border.",
+                "b": "'Padding' controls text alignment, while 'margin' controls element position.",
+                "c": "'Padding' sets the font size, while 'margin' sets the element's width."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How does the 'display' property affect elements?",
+            "answers": {
+                "a": "Controls the layout of elements, such as block, inline, or none.",
+                "b": "Defines the text color of elements.",
+                "c": "Sets the background color of elements."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is Flexbox in CSS?",
+            "answers": {
+                "a": "A layout module that allows responsive alignment of items in a container.",
+                "b": "A method for embedding external stylesheets.",
+                "c": "A tool for creating CSS animations."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'position' property do in CSS?",
+            "answers": {
+                "a": "Defines how an element is positioned on the page (static, relative, absolute, fixed, or sticky).",
+                "b": "Controls the visibility of the element.",
+                "c": "Sets the font style of the element."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you apply styles to elements with a specific class in CSS?",
+            "answers": {
+                "a": "Using the '.' prefix before the class name.",
+                "b": "Using the '::' pseudo-class before the class name.",
+                "c": "Using the '#' prefix before the class name."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What are CSS preprocessors, and name one example.",
+            "answers": {
+                "a": "Tools that extend CSS with variables, nested rules, and functions. Example: SASS.",
+                "b": "Browser extensions that optimize CSS performance.",
+                "c": "Libraries that automatically apply CSS rules."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a CSS Grid Layout?",
+            "answers": {
+                "a": "A layout system for creating two-dimensional grid-based layouts.",
+                "b": "A method for creating responsive images.",
+                "c": "A system for managing CSS variables."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a media query in CSS?",
+            "answers": {
+                "a": "Using the '@media' rule to apply styles based on device characteristics.",
+                "b": "Using the '@font-face' rule to embed custom fonts.",
+                "c": "Using the '@import' rule to include external stylesheets."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the difference between 'inline' and 'inline-block' display properties?",
+            "answers": {
+                "a": "'inline-block' allows setting width and height, while 'inline' does not.",
+                "b": "'inline' allows setting width and height, while 'inline-block' does not.",
+                "c": "'inline' creates a new block context, while 'inline-block' does not."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'calc()' function do in CSS?",
+            "answers": {
+                "a": "It performs calculations to determine CSS property values.",
+                "b": "It calculates the size of an element based on its content.",
+                "c": "It computes the color values for elements."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "javascript": [
+        {
+            "question": "What is the purpose of 'let' in JavaScript?",
+            "answers": {
+                "a": "To declare variables with block scope.",
+                "b": "To declare variables with function scope.",
+                "c": "To declare constants."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How does 'const' differ from 'let' in JavaScript?",
+            "answers": {
+                "a": "'const' declares a variable that cannot be reassigned, while 'let' allows reassignment.",
+                "b": "'const' is used for functions, while 'let' is for variables.",
+                "c": "'const' has function scope, while 'let' has block scope."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a closure in JavaScript?",
+            "answers": {
+                "a": "A function that retains access to variables from its lexical scope.",
+                "b": "A function that executes immediately upon creation.",
+                "c": "A method for creating anonymous functions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you handle asynchronous operations in JavaScript?",
+            "answers": {
+                "a": "Using Promises and async/await.",
+                "b": "Using synchronous loops.",
+                "c": "Using global variables."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of 'this' keyword in JavaScript?",
+            "answers": {
+                "a": "To refer to the current object or context in which a function is executing.",
+                "b": "To create new object instances.",
+                "c": "To access global variables."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Explain the difference between '==' and '===' in JavaScript.",
+            "answers": {
+                "a": "'==' compares values for equality with type coercion, while '===' compares values and types without coercion.",
+                "b": "'==' is for comparing object references, while '===' compares values.",
+                "c": "'==' is used for string comparison, while '===' is for numbers."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What are JavaScript prototypes?",
+            "answers": {
+                "a": "Objects that allow inheritance and shared properties between instances.",
+                "b": "Built-in methods for handling arrays.",
+                "c": "A way to define constants."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a new object in JavaScript?",
+            "answers": {
+                "a": "Using the 'new' keyword with a constructor function.",
+                "b": "By assigning values to variables.",
+                "c": "By using the 'Object.create()' method."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is an IIFE (Immediately Invoked Function Expression)?",
+            "answers": {
+                "a": "A function that executes immediately after its creation.",
+                "b": "A function that is invoked by an event handler.",
+                "c": "A function that returns another function."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'fetch()' API in JavaScript?",
+            "answers": {
+                "a": "To make network requests and handle responses.",
+                "b": "To create new data structures.",
+                "c": "To manipulate the DOM directly."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What are JavaScript 'event listeners'?",
+            "answers": {
+                "a": "Functions that execute in response to user actions or other events.",
+                "b": "Methods for manipulating array data.",
+                "c": "Objects that store application state."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'bind()' method do in JavaScript?",
+            "answers": {
+                "a": "Creates a new function with a specific 'this' value and arguments.",
+                "b": "Creates a copy of an array.",
+                "c": "Binds two objects together."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "react": [
+        {
+            "question": "What is JSX in React?",
+            "answers": {
+                "a": "A syntax extension that allows writing HTML elements in JavaScript.",
+                "b": "A library for managing application state.",
+                "c": "A tool for server-side rendering."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a functional component in React?",
+            "answers": {
+                "a": "By defining a function that returns JSX.",
+                "b": "By extending the React.Component class.",
+                "c": "By using the 'createElement()' method."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of 'props' in React?",
+            "answers": {
+                "a": "To pass data and event handlers from parent to child components.",
+                "b": "To manage component state.",
+                "c": "To handle API requests."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How does 'useState' work in React?",
+            "answers": {
+                "a": "It creates a state variable and a function to update it.",
+                "b": "It handles lifecycle methods in class components.",
+                "c": "It manages component re-rendering."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What are 'React Hooks'?",
+            "answers": {
+                "a": "Functions that let you use state and other React features without writing a class.",
+                "b": "Methods for handling user events.",
+                "c": "Components that manage application routes."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'useEffect' hook used for in React?",
+            "answers": {
+                "a": "To perform side effects such as data fetching or subscriptions.",
+                "b": "To manage the component lifecycle in class components.",
+                "c": "To handle routing between pages."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'key' prop in React lists?",
+            "answers": {
+                "a": "To uniquely identify each element in a list for efficient updates.",
+                "b": "To specify the type of the list.",
+                "c": "To define the style of list items."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'context' API in React?",
+            "answers": {
+                "a": "A way to share values between components without passing props explicitly.",
+                "b": "A method for handling events in components.",
+                "c": "A library for managing form state."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you handle form submissions in React?",
+            "answers": {
+                "a": "By managing form state with hooks and handling the submit event.",
+                "b": "By using the 'submit()' method on the form element.",
+                "c": "By directly manipulating the DOM."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is 'React Router' used for?",
+            "answers": {
+                "a": "To handle routing and navigation in a React application.",
+                "b": "To manage component state.",
+                "c": "To create animations for components."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is 'Redux' and how is it used in React applications?",
+            "answers": {
+                "a": "A state management library that provides a global store for state and a predictable way to update it.",
+                "b": "A tool for handling CSS in React applications.",
+                "c": "A framework for building server-side rendered applications."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does 'React.StrictMode' do?",
+            "answers": {
+                "a": "Helps identify potential problems in an application during development.",
+                "b": "Enhances performance by optimizing rendering.",
+                "c": "Provides additional debugging tools."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "backend": [
+        {
+            "question": "What is Node.js?",
+            "answers": {
+                "a": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
+                "b": "A library for creating user interfaces.",
+                "c": "A framework for building mobile applications."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is REST API?",
+            "answers": {
+                "a": "An architectural style for designing networked applications using HTTP methods.",
+                "b": "A protocol for secure data transfer over networks.",
+                "c": "A framework for building web servers."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of a database index?",
+            "answers": {
+                "a": "To improve the speed of data retrieval operations.",
+                "b": "To manage the structure of data storage.",
+                "c": "To handle data encryption."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What are middleware functions in Express.js?",
+            "answers": {
+                "a": "Functions that have access to the request, response, and next middleware function.",
+                "b": "Libraries for handling user authentication.",
+                "c": "Tools for optimizing database queries."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the difference between SQL and NoSQL databases?",
+            "answers": {
+                "a": "SQL databases are relational and use structured query language, while NoSQL databases are non-relational and use various data models.",
+                "b": "SQL databases are used for real-time data processing, while NoSQL databases are used for batch processing.",
+                "c": "SQL databases are file-based, while NoSQL databases are cloud-based."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How does JWT (JSON Web Token) work?",
+            "answers": {
+                "a": "It securely transmits information between parties as a JSON object, which is digitally signed.",
+                "b": "It encrypts data for secure storage.",
+                "c": "It manages user sessions on the server."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is OAuth?",
+            "answers": {
+                "a": "An authorization framework that allows third-party applications to access user resources without exposing credentials.",
+                "b": "A protocol for encrypting data in transit.",
+                "c": "A library for managing user sessions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the role of a load balancer?",
+            "answers": {
+                "a": "To distribute incoming network traffic across multiple servers.",
+                "b": "To encrypt data during transmission.",
+                "c": "To manage database transactions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Explain the term 'microservices' in backend development.",
+            "answers": {
+                "a": "An architectural style where applications are composed of small, independent services.",
+                "b": "A method for managing database transactions.",
+                "c": "A framework for creating user interfaces."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is API rate limiting?",
+            "answers": {
+                "a": "A technique to control the number of requests a client can make to an API within a certain timeframe.",
+                "b": "A method for encrypting API data.",
+                "c": "A process for managing API documentation."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How does server-side rendering (SSR) benefit web applications?",
+            "answers": {
+                "a": "It generates HTML on the server and sends it to the client, improving performance and SEO.",
+                "b": "It optimizes client-side JavaScript execution.",
+                "c": "It provides real-time data updates."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of caching in web development?",
+            "answers": {
+                "a": "To store frequently accessed data to improve performance and reduce server load.",
+                "b": "To manage user authentication.",
+                "c": "To handle form validation."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "linux": [
+        {
+            "question": "What is the 'grep' command used for in Linux?",
+            "answers": {
+                "a": "To search for text in files using patterns.",
+                "b": "To list files and directories.",
+                "c": "To manage file permissions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you view the contents of a file in Linux?",
+            "answers": {
+                "a": "Using the 'cat' command.",
+                "b": "Using the 'mkdir' command.",
+                "c": "Using the 'chmod' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'chmod' command?",
+            "answers": {
+                "a": "To change file permissions.",
+                "b": "To change file ownership.",
+                "c": "To create directories."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'ps' command do?",
+            "answers": {
+                "a": "Displays information about active processes.",
+                "b": "Shows disk usage statistics.",
+                "c": "Lists all users on the system."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you find the current working directory in Linux?",
+            "answers": {
+                "a": "Using the 'pwd' command.",
+                "b": "Using the 'ls' command.",
+                "c": "Using the 'find' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'top' command used for?",
+            "answers": {
+                "a": "To display a dynamic view of system processes.",
+                "b": "To create new files.",
+                "c": "To change file ownership."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'sudo' command used for?",
+            "answers": {
+                "a": "To execute commands with superuser privileges.",
+                "b": "To view system logs.",
+                "c": "To search for files."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a new directory in Linux?",
+            "answers": {
+                "a": "Using the 'mkdir' command.",
+                "b": "Using the 'touch' command.",
+                "c": "Using the 'rm' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'ls' command?",
+            "answers": {
+                "a": "To list files and directories.",
+                "b": "To change file permissions.",
+                "c": "To copy files."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'df' command display?",
+            "answers": {
+                "a": "Disk space usage.",
+                "b": "File permissions.",
+                "c": "Running processes."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'kill' command do in Linux?",
+            "answers": {
+                "a": "Terminates a process by its ID.",
+                "b": "Creates a new user account.",
+                "c": "Changes file ownership."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the function of the 'echo' command?",
+            "answers": {
+                "a": "To display a line of text or a variable value.",
+                "b": "To execute a script.",
+                "c": "To list running processes."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "devops": [
+        {
+            "question": "What is Continuous Integration (CI)?",
+            "answers": {
+                "a": "A practice of merging code changes frequently into a central repository.",
+                "b": "A method for deploying applications.",
+                "c": "A technique for managing infrastructure."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of a 'Dockerfile'?",
+            "answers": {
+                "a": "To define the instructions for building a Docker image.",
+                "b": "To configure a continuous integration pipeline.",
+                "c": "To deploy applications to cloud environments."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is Kubernetes used for?",
+            "answers": {
+                "a": "To manage containerized applications at scale.",
+                "b": "To automate software testing.",
+                "c": "To configure network settings."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does 'Infrastructure as Code' (IaC) refer to?",
+            "answers": {
+                "a": "Managing and provisioning infrastructure using code and automation tools.",
+                "b": "Writing scripts to deploy applications.",
+                "c": "Creating user interfaces for applications."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a 'CI/CD pipeline'?",
+            "answers": {
+                "a": "A set of automated processes for building, testing, and deploying code changes.",
+                "b": "A tool for monitoring application performance.",
+                "c": "A method for managing database schemas."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the role of a 'load balancer' in DevOps?",
+            "answers": {
+                "a": "To distribute incoming network traffic across multiple servers.",
+                "b": "To monitor application performance.",
+                "c": "To manage deployment configurations."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of 'container orchestration'?",
+            "answers": {
+                "a": "To manage the deployment, scaling, and operations of containerized applications.",
+                "b": "To automate database backups.",
+                "c": "To handle network traffic routing."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is 'monitoring' in the context of DevOps?",
+            "answers": {
+                "a": "The practice of continuously observing and analyzing system performance and health.",
+                "b": "The process of deploying applications.",
+                "c": "The act of writing test cases."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does 'scaling' refer to in DevOps?",
+            "answers": {
+                "a": "Adjusting the number of resources allocated to an application based on demand.",
+                "b": "Creating new containers.",
+                "c": "Writing deployment scripts."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is 'configuration management'?",
+            "answers": {
+                "a": "The process of managing and maintaining the configuration of software and hardware systems.",
+                "b": "The technique for debugging applications.",
+                "c": "The method for handling user authentication."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is 'rollback' in DevOps?",
+            "answers": {
+                "a": "Reverting to a previous version of an application or system after a failed deployment.",
+                "b": "The process of creating new code features.",
+                "c": "The practice of managing server logs."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "docker": [
+        {
+            "question": "What is Docker?",
+            "answers": {
+                "a": "A platform for developing, shipping, and running applications in containers.",
+                "b": "A programming language for web development.",
+                "c": "A tool for managing server databases."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a Docker image?",
+            "answers": {
+                "a": "A lightweight, standalone, and executable package that includes everything needed to run a piece of software.",
+                "b": "A method for encrypting data in transit.",
+                "c": "A library for managing user sessions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a Docker container?",
+            "answers": {
+                "a": "A runnable instance of a Docker image that contains the application and its dependencies.",
+                "b": "A virtual machine for managing network traffic.",
+                "c": "A server for hosting web applications."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'docker-compose' tool?",
+            "answers": {
+                "a": "To define and run multi-container Docker applications.",
+                "b": "To monitor Docker containers.",
+                "c": "To deploy applications to the cloud."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you list Docker containers?",
+            "answers": {
+                "a": "Using the 'docker ps' command.",
+                "b": "Using the 'docker images' command.",
+                "c": "Using the 'docker build' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'dockerfile'?",
+            "answers": {
+                "a": "To define the steps to build a Docker image.",
+                "b": "To manage container networking.",
+                "c": "To create a Docker volume."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'docker run' command do?",
+            "answers": {
+                "a": "Runs a command in a new container.",
+                "b": "Builds a Docker image.",
+                "c": "Lists all Docker volumes."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you remove a Docker container?",
+            "answers": {
+                "a": "Using the 'docker rm' command.",
+                "b": "Using the 'docker stop' command.",
+                "c": "Using the 'docker rmi' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is Docker Swarm?",
+            "answers": {
+                "a": "A native clustering and orchestration tool for Docker.",
+                "b": "A tool for monitoring container performance.",
+                "c": "A library for managing container logs."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you build a Docker image?",
+            "answers": {
+                "a": "Using the 'docker build' command.",
+                "b": "Using the 'docker pull' command.",
+                "c": "Using the 'docker create' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a Docker volume?",
+            "answers": {
+                "a": "A persistent storage mechanism for Docker containers.",
+                "b": "A tool for container networking.",
+                "c": "A method for container orchestration."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "python": [
+        {
+            "question": "What is a Python decorator?",
+            "answers": {
+                "a": "A function that modifies the behavior of another function.",
+                "b": "A way to handle exceptions.",
+                "c": "A method for managing class inheritance."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'self' keyword represent in a Python class?",
+            "answers": {
+                "a": "The instance of the class.",
+                "b": "A reference to the class itself.",
+                "c": "A global variable."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a lambda function in Python?",
+            "answers": {
+                "a": "A small anonymous function defined with the 'lambda' keyword.",
+                "b": "A function that handles exceptions.",
+                "c": "A method for managing file input/output."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you handle exceptions in Python?",
+            "answers": {
+                "a": "Using 'try' and 'except' blocks.",
+                "b": "By using 'if' and 'else' statements.",
+                "c": "With error codes and status messages."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of list comprehensions in Python?",
+            "answers": {
+                "a": "To create new lists by applying an expression to each item in an existing list.",
+                "b": "To manage the state of a class.",
+                "c": "To handle file operations."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the difference between 'deep copy' and 'shallow copy' in Python?",
+            "answers": {
+                "a": "A deep copy creates a new object and recursively copies all objects found, while a shallow copy only copies the outer object.",
+                "b": "A deep copy is used for immutable objects, while a shallow copy is for mutable objects.",
+                "c": "A deep copy performs faster than a shallow copy."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'with' statement do in Python?",
+            "answers": {
+                "a": "Manages resources like file streams, ensuring they are properly cleaned up after use.",
+                "b": "Creates a new thread.",
+                "c": "Defines a new class."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you define a class in Python?",
+            "answers": {
+                "a": "Using the 'class' keyword followed by the class name.",
+                "b": "Using the 'def' keyword.",
+                "c": "Using the 'module' keyword."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'init' method in Python classes?",
+            "answers": {
+                "a": "To initialize a new instance of the class.",
+                "b": "To define class-level methods.",
+                "c": "To manage class inheritance."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'global' keyword used for in Python?",
+            "answers": {
+                "a": "To declare that a variable is global and should be used from the global scope.",
+                "b": "To create global functions.",
+                "c": "To manage global constants."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'pass' statement in Python?",
+            "answers": {
+                "a": "To act as a placeholder for future code or to create minimal classes and functions.",
+                "b": "To exit a loop.",
+                "c": "To define a new variable."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "wordpress": [
+        {
+            "question": "What is WordPress?",
+            "answers": {
+                "a": "A content management system (CMS) used for building websites and blogs.",
+                "b": "A programming language for web development.",
+                "c": "A database management system."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you install a plugin in WordPress?",
+            "answers": {
+                "a": "Through the 'Plugins' menu in the WordPress admin dashboard.",
+                "b": "By modifying the 'functions.php' file.",
+                "c": "Using FTP to upload files."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a WordPress theme?",
+            "answers": {
+                "a": "A collection of templates and stylesheets used to define the look and feel of a WordPress site.",
+                "b": "A plugin for enhancing site functionality.",
+                "c": "A type of user role in WordPress."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'wp-config.php' file used for?",
+            "answers": {
+                "a": "To configure WordPress settings such as database connection details.",
+                "b": "To manage user roles.",
+                "c": "To customize the site's appearance."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a custom post type in WordPress?",
+            "answers": {
+                "a": "By adding code to the 'functions.php' file or using a plugin.",
+                "b": "By modifying the 'wp-config.php' file.",
+                "c": "Through the WordPress admin dashboard under 'Posts'."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a WordPress shortcode?",
+            "answers": {
+                "a": "A small piece of code enclosed in square brackets that adds functionality to posts and pages.",
+                "b": "A plugin for enhancing site security.",
+                "c": "A theme for customizing the site layout."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the 'functions.php' file used for?",
+            "answers": {
+                "a": "To add custom functionality and features to a WordPress theme.",
+                "b": "To manage site users.",
+                "c": "To configure database settings."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a child theme in WordPress?",
+            "answers": {
+                "a": "By creating a new directory with a style.css file that imports the parent theme's stylesheet.",
+                "b": "By modifying the 'wp-config.php' file.",
+                "c": "By using the WordPress theme editor."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a WordPress widget?",
+            "answers": {
+                "a": "A small block that performs a specific function and can be added to sidebars and other widget-ready areas.",
+                "b": "A type of plugin.",
+                "c": "A feature for creating custom post types."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'wp-content' directory?",
+            "answers": {
+                "a": "To store themes, plugins, and uploaded media files.",
+                "b": "To manage database backups.",
+                "c": "To configure WordPress settings."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you update WordPress core files?",
+            "answers": {
+                "a": "Through the WordPress admin dashboard under 'Updates'.",
+                "b": "By manually replacing files via FTP.",
+                "c": "Using a WordPress plugin."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "php": [
+        {
+            "question": "What does PHP stand for?",
+            "answers": {
+                "a": "Hypertext Preprocessor.",
+                "b": "Personal Home Page.",
+                "c": "Public Hypertext Processor."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you declare a variable in PHP?",
+            "answers": {
+                "a": "Using the '$' symbol followed by the variable name.",
+                "b": "Using the 'var' keyword.",
+                "c": "Using the 'let' keyword."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'include' statement in PHP?",
+            "answers": {
+                "a": "To include and evaluate the specified file.",
+                "b": "To declare global variables.",
+                "c": "To handle form submissions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'echo' statement do in PHP?",
+            "answers": {
+                "a": "Outputs one or more strings.",
+                "b": "Defines a function.",
+                "c": "Creates a new file."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you connect to a MySQL database in PHP?",
+            "answers": {
+                "a": "Using the 'mysqli_connect()' function.",
+                "b": "Using the 'db_connect()' function.",
+                "c": "Using the 'mysql_connect()' function."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is a session in PHP?",
+            "answers": {
+                "a": "A way to store user data across multiple pages during a user's visit.",
+                "b": "A type of PHP function.",
+                "c": "A method for handling file uploads."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'header()' function in PHP?",
+            "answers": {
+                "a": "To send a raw HTTP header to the client.",
+                "b": "To handle file uploads.",
+                "c": "To create a new file."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the difference between '==' and '===' in PHP?",
+            "answers": {
+                "a": "'==' checks for equality of value, while '===' checks for equality of value and type.",
+                "b": "'==' checks for equality of type, while '===' checks for equality of value.",
+                "c": "'==' is used for string comparison, while '===' is used for integer comparison."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you start a PHP block of code?",
+            "answers": {
+                "a": "Using '<?php' at the beginning.",
+                "b": "Using '<php>' at the beginning.",
+                "c": "Using '<?code>' at the beginning."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'foreach' loop in PHP?",
+            "answers": {
+                "a": "To iterate over arrays and objects.",
+                "b": "To execute a block of code repeatedly.",
+                "c": "To handle exceptions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you escape special characters in PHP strings?",
+            "answers": {
+                "a": "Using a backslash before the special character.",
+                "b": "Using single quotes around the string.",
+                "c": "Using double quotes around the string."
+            },
+            "correct_answer": "a"
+        }
+    ],
+    "bash": [
+        {
+            "question": "What does the 'ls' command do in Bash?",
+            "answers": {
+                "a": "Lists directory contents.",
+                "b": "Changes the current directory.",
+                "c": "Displays the current directory path."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you view the contents of a file in Bash?",
+            "answers": {
+                "a": "Using the 'cat' command.",
+                "b": "Using the 'echo' command.",
+                "c": "Using the 'mkdir' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'grep' command?",
+            "answers": {
+                "a": "To search for specific patterns in files.",
+                "b": "To list files in a directory.",
+                "c": "To change file permissions."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you create a new directory in Bash?",
+            "answers": {
+                "a": "Using the 'mkdir' command.",
+                "b": "Using the 'touch' command.",
+                "c": "Using the 'rm' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the purpose of the 'chmod' command?",
+            "answers": {
+                "a": "To change file permissions.",
+                "b": "To list directory contents.",
+                "c": "To display the current directory path."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'echo' command do?",
+            "answers": {
+                "a": "Displays a line of text or variable value.",
+                "b": "Runs a script.",
+                "c": "Lists all files in a directory."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you view the current working directory in Bash?",
+            "answers": {
+                "a": "Using the 'pwd' command.",
+                "b": "Using the 'cd' command.",
+                "c": "Using the 'ls' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What does the 'rm' command do?",
+            "answers": {
+                "a": "Removes files or directories.",
+                "b": "Renames files or directories.",
+                "c": "Displays the contents of a file."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you search for a specific string in a file using Bash?",
+            "answers": {
+                "a": "Using the 'grep' command.",
+                "b": "Using the 'find' command.",
+                "c": "Using the 'locate' command."
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "How do you redirect output to a file in Bash?",
+            "answers": {
+                "a": "Using the '>' symbol.",
+                "b": "Using the '<' symbol.",
+                "c": "Using the '|' symbol."
+            },
+            "correct_answer": "a"
+        }
+    ]
+}
